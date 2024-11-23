@@ -1,0 +1,155 @@
+{
+    "menu": [
+      {
+        "category": "Pizzas",
+        "items": [
+          {
+            "id": 1,
+            "name": "Margherita Pizza",
+            "description": "Topped with fresh mozzarella, basil leaves, and a rich tomato sauce, drizzled with olive oil for a classic Italian flavor.A timeless Italian classic! Freshly baked with a blend of creamy mozzarella, flavorful tomato sauce, and fragrant basil leaves, drizzled with extra virgin olive oil for the perfect balance of simplicity and elegance. ",
+            "price": 11.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Margherita%20Pizza.jpg?raw=true"
+          },
+          {
+            "id": 2,
+            "name": "Pepperoni Pizza",
+            "description": "A crowd favorite! Crispy, spicy pepperoni layered over a bed of gooey mozzarella and our signature tomato sauce, baked to perfection for an irresistible bite every time.",
+            "price": 12.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Pepperoni%20Pizza.jpg?raw=true"
+          }
+          ,
+          {
+            "id": 3,
+            "name": "Hawaiian Pizza",
+            "description": "A sweet and savory delight! Juicy pineapple chunks and savory ham atop a cheesy, golden crust with our rich tomato or smoky barbecue base. A tropical twist that surprises and satisfies!",
+            "price": 12.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Hawaiian%20Pizza.jpg?raw=true"
+          },
+          {
+            "id": 4,
+            "name": "BBQ Chicken Pizza",
+            "description": "A bold fusion of flavors! Tender grilled chicken, tangy barbecue sauce, red onions, and a generous layer of melted mozzarella, garnished with fresh cilantro for a smoky, mouthwatering experience.",
+            "price": 14.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/BBQ%20Chicken%20Pizza.jpg?raw=true"
+          }
+          
+        ]
+      },
+      {
+        "category": "Wings",
+        "items": [
+          {
+            "id": 5,
+            "name": "Buffalo Wings",
+            "description": "Classic and bold! Crispy wings tossed in a tangy, spicy Buffalo sauce, served with a side of cool ranch or creamy blue cheese for the ultimate kick.",
+            "price": 5.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Buffalo%20Wings.jpg?raw=true"
+          },
+          {
+            "id": 6,
+            "name": "Honey Garlic Wings",
+            "description": "Sweet meets savory! Juicy wings coated in a luscious honey garlic glaze, with a hint of garlic that’s perfect for satisfying your cravings.",
+            "price": 5.99,
+            "available": false,
+            "image": "https://github.com/Laysin1/menu/blob/main/Honey%20Garlic%20Wings.jpg?raw=true"
+          },
+          {
+            "id": 7,
+            "name": "Barbecue Wings",
+            "description": "Smoky and sweet! Tender wings slathered in a rich barbecue sauce, grilled to perfection for that irresistible charred flavor.",
+            "price": 5.99,
+            "available": false,
+            "image": "https://github.com/Laysin1/menu/blob/main/Barbecue%20Wings.jpg?raw=true"
+          },
+          {
+            "id": 8,
+            "name": "Lemon Pepper Wings",
+            "description": "Zesty and flavorful! Golden-fried wings dusted with a tangy lemon pepper seasoning, delivering a burst of citrusy goodness in every bite.",
+            "price": 5.99,
+            "available": false,
+            "image": "https://github.com/Laysin1/menu/blob/main/Lemon%20Pepper%20Wings.jpg?raw=true"
+          }
+        ]
+      },
+      {
+        "category": "Drinks",
+        "items": [
+          {
+            "id": 9,
+            "name": "Coca-Cola",
+            "description": "The timeless classic! Ice-cold and perfectly fizzy, Coca-Cola pairs well with every meal.",
+            "price": 1.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Coca%20Cola.jpg?raw=true"
+          },
+          {
+            "id": 10,
+            "name": "Sprite",
+            "description": "Crisp and refreshing lemon-lime soda with a bubbly twist. A light and zesty favorite!",
+            "price": 1.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Sprite.jpg?raw=true"
+          },
+          {
+            "id": 11,
+            "name": "Fanta Orange",
+            "description": "Bursting with fruity flavor! Fanta Orange is sweet, tangy, and fun in every sip.",
+            "price": 1.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Fanta%20Orange.jpg?raw=true"
+          },
+          {
+            "id": 12,
+            "name": "Bottled Water",
+            "description": "Stay hydrated with pure, crisp bottled water—an ideal choice for a light, refreshing drink.",
+            "price": 0.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/images.jpg?raw=true"
+          }
+        ]
+      },
+      {
+        "category": "ice-creams",
+        "items": [
+          {
+            "id": 13,
+            "name": "Vanilla Delight",
+            "description": "Smooth and creamy vanilla ice cream, a classic flavor that never goes out of style. Perfect on its own or paired with your favorite toppings!",
+            "price": 4.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Vanilla%20Delight.jpg?raw=true"
+          },
+          {
+            "id": 14,
+            "name": "Chocolate Indulgence",
+            "description": "Rich and velvety chocolate ice cream, crafted for chocoholics who crave a decadent, sweet treat.",
+            "price": 4.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Chocolate%20Indulgence.jpg?raw=true"
+          },
+          {
+            "id": 15,
+            "name": "Strawberry Bliss",
+            "description": "Refreshing and fruity strawberry ice cream, made with real strawberries for a naturally sweet and tangy flavor.",
+            "price": 4.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Strawberry%20Bliss.jpg?raw=true"
+          },
+          {
+            "id": 16,
+            "name": "Cookies and Cream",
+            "description": "A delightful mix of creamy vanilla ice cream and chunks of chocolate cookies, creating a perfect blend of crunch and smoothness.",
+            "price": 4.99,
+            "available": true,
+            "image": "https://github.com/Laysin1/menu/blob/main/Cookies%20and%20Cream.jpg?raw=true"
+          }
+        ]
+      }
+    ]
+  }
+  
