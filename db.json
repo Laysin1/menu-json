@@ -5,63 +5,63 @@
             "name": "Ultraboost Light Running Shoes",
             "price": 190,
             "rating": 4.7,
-            "image": "img/shoes-1.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Margherita%20Pizza.jpg?raw=true"
         },
         {
             "sku": "8840000000002",
             "name": "Colorblock Track Jacket",
             "price": 90,
             "rating": 4.6,
-            "image": "img/shirt-1.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Pepperoni%20Pizza.jpg?raw=true"
         },
         {
             "sku": "8840000000003",
             "name": "Own the Run Tee",
             "price": 35,
             "rating": 4.8,
-            "image": "img/shirt-2.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Hawaiian%20Pizza.jpg?raw=true"
         },
         {
             "sku": "8840000000004",
             "name": "KDMV O's",
             "price": 130,
             "rating": 5.0,
-            "image": "img/shoes-4.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/BBQ%20Chicken%20Pizza.jpg?raw=true"
         },
         {
             "sku": "8840000000005",
             "name": "PEACE TEE",
             "price": 40,
             "rating": 3.6,
-            "image": "img/shirt-3.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Buffalo%20Wings.jpg?raw=true"
         },
         {
             "sku": "8840000000006",
             "name": "Miami Vice",
             "price": 35,
             "rating": 4.8,
-            "image": "img/shirt-4.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Honey%20Garlic%20Wings.jpg?raw=true"
         },
         {
             "sku": "8840000000007",
             "name": "Pokemon Supercharged Breaker Japanese Booster box",
             "price": 50,
             "rating": 4.2,
-            "image": "img/card-1.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Coca%20Cola.jpg?raw=true"
         },
         {
             "sku": "8840000000008",
             "name": "Ultra Pro - Binder 9 Pocket Portfolio - Pokemon - Surging Sparks",
             "price": 8,
             "rating": 3.2,
-            "image": "img/card-2.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Sprite.jpg?raw=true"
         },
         {
             "sku": "8840000000009",
             "name": "Ultra Pro Pokemon: Morning Meadow 65ct Deck Sleeves",
             "price": 2,
             "rating": 4.1,
-            "image": "img/card-3.png"
+            "image": "https://github.com/Laysin1/menu/blob/main/Fanta%20Orange.jpg?raw=true"
         }
     ]
 }
